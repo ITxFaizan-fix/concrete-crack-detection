@@ -6,4 +6,5 @@
    seaborn
    pillow
    opencv-python-headless
-   streamlit
+   joblib
+   gradio
