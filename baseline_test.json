@@ -1,0 +1,1 @@
+{"model": "Random Forest (simple features)", "threshold": 0.16, "accuracy": 0.7130211674150096, "precision": 0.3318914667715297, "recall": 0.6107091172214182, "f1": 0.43006369426751595, "majority_class_accuracy": 0.8227068633739576}
