@@ -1,1 +1,0 @@
-{"model": "MobileNetV2 transfer learning", "threshold": 0.7131898403167725, "accuracy": 0.9123797305965362, "precision": 0.828169014084507, "recall": 0.638205499276411, "f1": 0.7208827135267675, "roc_auc": 0.9090060033177001}
