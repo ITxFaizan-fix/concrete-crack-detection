@@ -13,10 +13,10 @@ Images are cut from 230 source photos, so the train/validation/test split is mad
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
 | Majority class | 0.823 | 0.000 | 0.000 | 0.000 |
-| Random Forest (simple features) | 0.702 | 0.330 | 0.662 | 0.441 |
-| MobileNetV2 transfer learning | 0.910 | 0.809 | 0.643 | 0.717 |
+| Random Forest (simple features) | 0.714 | 0.334 | 0.621 | 0.435 |
+| MobileNetV2 transfer learning | 0.912 | 0.828 | 0.638 | 0.721 |
 
-MobileNetV2 ROC AUC: 0.906. Decision thresholds were chosen on the validation set only.
+MobileNetV2 ROC AUC: 0.909. Decision thresholds were chosen on the validation set only. Results come from a single training run (seed 42).
 
 ## How to run
 1. Open the notebook in Google Colab and set Runtime -> T4 GPU.
